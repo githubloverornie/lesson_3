@@ -1,0 +1,84 @@
+body{
+    font-family: 'Open Sans', sans-serif;  
+}
+
+
+.header{
+ margin-top: 53px;
+ margin-bottom: 52px;
+}
+
+.container{
+    max-width: 1284px;
+    margin: 0 auto;
+
+}
+
+.nav_ul{
+text-align: center;
+}
+
+.nav_li{
+display: inline-block;
+
+}
+
+.nav_li:not(:last-of-type){
+    margin-right: 50px;
+}
+
+.nav_link{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.section{
+    text-align: center;
+    background-image: url(../img/pexels-harrison-candlin-2441454\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+.section_text{
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 98px;
+    color: #FFFFFF;
+    padding-top: 140px;
+}
+
+.section_button{
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    width: 420px;
+    height: 70px;
+    border: none;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    text-align: center;
+    color: #162C38;
+    margin-bottom: 177px;
+
+}
+
+.section_2{
+    background-color: #1A6E88B5;
+    padding: 130px 0;
+}
+
+.section_2_text{
+    margin: 0 auto;
+max-width: 726px;
+max-height: 265px;
+font-weight: 400;
+font-size: 36px;
+line-height: 49px;
+color: #FFFFFF;
+}
