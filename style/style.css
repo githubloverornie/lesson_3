@@ -41,17 +41,20 @@ display: inline-block;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-
+    padding-bottom: 14px;
+    padding-top: 14px;
 }
 
 
 .section_text{
     font-weight: 700;
     font-size: 72px;
-    line-height: 98px;
+    line-height: 90px;
     color: #FFFFFF;
     padding-top: 140px;
+    margin-bottom: 14px;
 }
+
 
 .section_button{
     background-color: #FFFFFF;
@@ -76,7 +79,6 @@ display: inline-block;
 .section_2_text{
     margin: 0 auto;
 max-width: 726px;
-max-height: 265px;
 font-weight: 400;
 font-size: 36px;
 line-height: 49px;
